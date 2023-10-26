@@ -7,15 +7,15 @@
 ## Exercise (12 points)
 
 Check out a new branch and complete the following tasks **in order**:
-* 2 points - There is a bug in our authentication!  Identity looks like it is set up, but we can't register users.  Find and fix this bug! (Hint: this should only take one line of code)
-* 2 points - Right now, anyone can 'check out' a book.  Update the application so that only a logged in user can check out a book.
+* 2 points - There is a bug in our authentication!  Identity looks like it is set up, but we can't register users.  Find and fix this bug! (Hint: this should only take one line of code) ✔️
+* 2 points - Right now, anyone can 'check out' a book.  Update the application so that only a logged in user can check out a book.✔️
 * 4 points - In this application, we have the ability to create new books.  Improve this functionality by:
-  * Add a link from the nav-bar to add a book
-  * Make sure only Librarians can add a book
+  * Add a link from the nav-bar to add a book✔️
+  * Make sure only Librarians can add a book✖️ (not allowing my user with role 'librarian' access this)
 * 2 points - Create a descriptive pull request and merge this branch into main
 * 2 points - Take a screenshot of a database query result from pgAdmin that clearly shows which users in your database are librarians.  Update this README to include your screenshot below:
 
-  < YOUR SCREENSHOT SHOULD GO HERE >
+  < YOUR ![image](https://github.com/bradenasmith2/Launch_Mod5Week3Assessment/assets/80287373/81d4d0e2-022a-4b69-b788-9b459da879e0)>
 
   
 
